@@ -48,7 +48,7 @@ This dashboard addresses the need to:
 
 ## 📊 Dashboard  
 
-![Overview](Overview.png)  
+![Overview](Snapshot of the Dashboard.png)  
 
 ---
 
