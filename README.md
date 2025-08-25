@@ -20,7 +20,7 @@ This dashboard addresses the need to:
 ---
 
 ## 📂 Dataset Used  
-- [Dataset (Private)](#)  
+- [Dataset](https://github.com/KamalNayanTiwary/Trip-Analysis-Dashboard/blob/main/Trip_Data.xlsx)  
 
 ---
 
