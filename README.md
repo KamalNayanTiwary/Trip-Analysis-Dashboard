@@ -74,10 +74,9 @@ This dashboard addresses the need to:
 
 ---
 
-
 ## 👨‍💻 Author & Contact  
 **Kamal Nayan Tiwary**  
 **Data Analyst**
 
-📧 Email: **kamalnayantiwary73@gmail.com**  
+📧 **kamalnayantiwary73@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
