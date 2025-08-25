@@ -48,7 +48,7 @@ This dashboard addresses the need to:
 
 ## 📊 Dashboard  
 
-![Overview](Snapshot of the Dashboard.png)  
+![Overview](https://github.com/KamalNayanTiwary/Trip-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)  
 
 ---
 
