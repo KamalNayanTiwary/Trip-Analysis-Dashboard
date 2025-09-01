@@ -1,7 +1,7 @@
 # Trip-Analysis-Dashboard
 
 ## 📌 Project Objective  
-To design and develop an **interactive Trip Analysis Dashboard** in Power BI that provides real-time insights into revenue, passenger trends, trip performance, and operational efficiency.  
+To design and develop an **interactive Trip Analysis Dashboard** in **Power BI** that provides real-time insights into revenue, passenger trends, trip performance, and operational efficiency.  
 The dashboard enables stakeholders to monitor key performance indicators (KPIs), analyze trip data by time period, payment mode, and location, and make **data-driven decisions** to optimize operations.  
 
 ---
