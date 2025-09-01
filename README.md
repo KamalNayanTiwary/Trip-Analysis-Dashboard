@@ -6,6 +6,12 @@ The dashboard enables stakeholders to monitor key performance indicators (KPIs),
 
 ---
 
+## 📊 Live Business Insights Dashboard
+I created an interactive **Power BI dashboard** to analyze and visualize business insights.  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/fb0e7358-9998-4a66-b0d5-e863d43773e0/876ca04140755131231a?experience=power-bi)
+
+---
+
 ## 🚨 Business Problem  
 In the transportation and travel industry, understanding trip patterns, passenger behavior, and revenue distribution is critical for improving efficiency and customer experience.  
 
@@ -71,12 +77,6 @@ This dashboard addresses the need to:
 - Optimize resources at **high-demand locations (Jharsuguda, Nalbari, Balasore)** to meet passenger demand.  
 - Increase awareness and offers for **low-demand operation periods** to boost usage.  
 - Use **daily and weekly trends** for scheduling trips more effectively and maximizing utilization.  
-
----
-
-## 📊 Live Business Insights Dashboard
-I created an interactive **Power BI dashboard** to analyze and visualize business insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/fb0e7358-9998-4a66-b0d5-e863d43773e0/876ca04140755131231a?experience=power-bi)
 
 ---
 
