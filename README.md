@@ -8,7 +8,7 @@ The dashboard enables stakeholders to monitor key performance indicators (KPIs),
 
 ## 📊 Live Business Insights Dashboard
 I created an interactive **Power BI dashboard** to analyze and visualize business insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/fb0e7358-9998-4a66-b0d5-e863d43773e0/876ca04140755131231a?experience=power-bi)
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTViNGIxYjEtMDYyMy00OWVlLTgyOWUtMjgzMjQ0NjM3MjU0IiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)
 
 ---
 
